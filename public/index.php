@@ -2,7 +2,7 @@
 include("theconnection.php");
 // echo "<pre>";
 // print_r($smt->fetchAll());
-// die();
+// die(); 
 ?>
 <!DOCTYPE html>
 <html>
